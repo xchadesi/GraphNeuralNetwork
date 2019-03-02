@@ -14,8 +14,8 @@
 通用| 图生成 | GraphRNN |  《GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models》 | 
 通用 | 图生成 |MolGAN  | 《 Molgan: An implicit generative model for small molecular graphs》  | 
 决策优化 | 旅行商问题 | GNN |  《Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP》《Attention solves your tsp》 | [attention-tsp](https://github.com/machine-reasoning-ufrgs/TSP-GNN https://github.com/wouterkool/attention-tsp)
-决策优化 |  |  |   | 
- 决策优化|  |  |   | 
+决策优化 | 规划器调度 | GNN |  《Adaptive Planner Scheduling with Graph Neural Networks》《Revised note on learning quadratic assignment with graph neural networks》 | 
+ 决策优化| 组合优化 | GCN structure2vec |  《Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search》《 Learning combinatorial optimization algorithms over graphs》 | [NPHard](https://github.com/IntelVCL/NPHard)
  |  |  |   | 
  |  |  |   |
  |  |  |   | 
