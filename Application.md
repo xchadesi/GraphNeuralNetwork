@@ -13,7 +13,8 @@
 通用|图生成  | NetGAN  | 《 Net-gan: Generating graphs via random walks》  | 
 通用| 图生成 | GraphRNN |  《GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models》 | 
 通用 | 图生成 |MolGAN  | 《 Molgan: An implicit generative model for small molecular graphs》  | 
-决策优化 |  |  |   | 
+决策优化 | 旅行商问题 | GNN |  《Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP》《Attention solves your tsp》 | [attention-tsp](https://github.com/machine-reasoning-ufrgs/TSP-GNN
+https://github.com/wouterkool/attention-tsp)
 决策优化 |  |  |   | 
  决策优化|  |  |   | 
  |  |  |   | 
