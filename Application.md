@@ -9,13 +9,13 @@
 通用 |社区检测  | Hierarchical GNN |  《Supervised Community Detection with Hierarchical Graph Neural Networks》 | 
 通用 | 图分类 |  | 《Graph Classification using Structural Attention》  | 
 通用 | 图分类 |DGCNN  |《An End-to-End Deep Learning Architecture for Graph Classification》| [pytorch_DGCNN](https://github.com/muhanzhang/pytorch_DGCNN)
-通用 |  |  |   | 
-通用|  |  |   | 
-通用|  |  |   | 
-通用 |  |  |   | 
- |  |  |   | 
- |  |  |   | 
- |  |  |   | 
+通用 | 推荐 |  GCN|  《Graph Convolutional Neural Networks for Web-Scale Recommender Systems》 | 
+通用|图生成  | NetGAN  | 《 Net-gan: Generating graphs via random walks》  | 
+通用| 图生成 | GraphRNN |  《GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models》 | 
+通用 | 图生成 |MolGAN  | 《 Molgan: An implicit generative model for small molecular graphs》  | 
+决策优化 |  |  |   | 
+决策优化 |  |  |   | 
+ 决策优化|  |  |   | 
  |  |  |   | 
  |  |  |   |
  |  |  |   | 
