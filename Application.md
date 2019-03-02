@@ -26,8 +26,6 @@
 社交网络 | 转发动作预测 |  | 《Social Influence Locality for Modeling Retweeting Behaviors》  | 
 社交网络 | 转发动作预测 |  | 《 Predicting Retweet via Social Influence Locality》  | 
  文本|	文本分类|	GCN	|"《Diffusion-convolutional neural networks》《 Convolutionalneural networks on graphs with fast localized spectral filtering》《Knowledgetransfer for out-of-knowledge-base entities : A graph neuralnetwork approach》《 Deep convolutional networks on graph-structured data》《 Semi-supervised classification with graph convolutional networks》《 Geometric deep learning on graphs and manifolds using mixture model cnns》"|[dcnn-tensorflow](https://github.com/RicardoZiTseng/dcnn-tensorflow)
-		
-|  |  |   | 
  |  |  |   | 
  |  |  |   | 
  |  |  |   | 
