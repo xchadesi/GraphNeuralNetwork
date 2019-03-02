@@ -19,9 +19,9 @@
 交通 | 出租车需求预测 |  |  《Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction》 | [DMVST-Net](https://github.com/huaxiuyao/DMVST-Net)
 交通 | 交通流量预测 |  | 《Spatio-Temporal Graph Convolutional Networks:A Deep Learning Framework for Traffic Forecasting》  |[STGCN-PyTorch](https://github.com/FelixOpolka/STGCN-PyTorch)
 交通 | 交通流量预测 |  |  《DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING》 | [DCRNN](https://github.com/liyaguang/DCRNN)
- |  |  |   | 
- |  |  |   | 
- |  |  |   | 
+传感网络 | 传感器布局 |  |   《Distributed Graph Layout for Sensor Networks》| 
+区域安全 | 疾病传播 |  |  《Predicting and controlling infectious disease epidemics using temporal networks》 | 
+区域安全 | 城市人流预测 |  |  《FCCF: Forecasting Citywide Crowd Flows Based on Big Data》 | 
  |  |  |   | 
  |  |  |   | 
  |  |  |   | 
