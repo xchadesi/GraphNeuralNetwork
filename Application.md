@@ -30,15 +30,48 @@
 文本 | 文本分类 | DGCNN |  《Large-scale hierarchical text classification with recursively regularized deep graph-cnn》|[DeepGraphCNNforTexts](https://github.com/HKUST-KnowComp/DeepGraphCNNforTexts)
 文本 |  文本分类| Text GCN |  《Graph convolutional networks for text classification》 | [text_gcn](https://github.com/yao8839836/text_gcn)
 文本| 文本分类 |Sentence LSTM  | 《 Sentence-state LSTM for text representation》| [S-LSTM](https://github.com/leuchine/S-LSTM)
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
-文本 |  |  |   | 
+文本|序列标注(POS, NER)	Sentence LSTM	|《 Sentence-state LSTM for textrepresentation》|	https://github.com/leuchine/S-LSTM
+文本|语义分类 | LSTM	|《 Improved semantic representations from tree-structured long short-term memorynetworks》| https://github.com/ttpro1995/TreeLSTMSentiment
+文本|语义角色标注Syntactic | GCN	|《Encoding sentences with graph convolutional networks for semantic role labeling》	|
+文本|机器翻译	| GCN	|《Graph convolutional encoders for syntax-aware neural machine translation》/《 Exploiting semantics in neural machine translation with graph convolutional networks》"	
+文本|机器翻译	|	GGNN	|《 Graph-to-sequence learningusing gated graph neural networks. 》|	https://github.com/beckdaniel/acl2018_graph2seq
+文本|关系抽取 | LSTM	|《 End-to-end relation extraction usinglstms on sequences and tree structures》|	
+文本|关系抽取 |Graph LSTM	|《Crosssentencen-ary relation extraction with graph lstms》/《 N-ary relationextraction using graph state lstm》|	https://github.com/freesunshine0316/nary-grn
+文本|关系抽取 |	GCN	|《 Graph convolution over pruned dependency trees improves relation extraction》 |	https://github.com/qipeng/gcn-over-pruned-trees
+文本|事件抽取|GCN	|《 Jointly multiple events extractionvia attention-based graph information aggregation》/《. Graph convolutional networks with argument-aware pooling for event detection》|	https://github.com/lx865712528/JMEE
+文本|文本生成	| Sentence LSTM	|《A graph-to-sequence mdel for amr-to-text generation》|	
+文本|文本生成 |	GGNN	|《 Graph-to-sequence learningusing gated graph neural networks》|
+文本|阅读理解 | 	Sentence LSTM	|《Exploring graph-structured passage representation for multihop reading comprehension with graph neural networks》	|
+图像/视频 | 社会关系理解 |	GRM	|《Deep reasoning with knowledge graph for social relationship understanding》|	https://github.com/wzhouxiff/SR
+图像/视频 | 图像分类 |	GCN	|《 Few-shot learning with graph neuralnetworks》/《Zero-shot recognition via semantic embeddings and knowledge graphs》| https://github.com/louis2889184/gnn_few_shot_cifar100 https://github.com/JudyYe/zero-shot-gcn
+图像/视频 | 图像分类 |	GGNN	|《 Multi-label zero-shot learning with structured knowledge graphs》|	https://people.csail.mit.edu/weifang/project/vll18-mlzsl/
+图像/视频 | 图像分类 | ADGPM	|《Rethinking knowledge graph propagation for zero-shot learning》|	https://github.com/cyvius96/adgpm
+图像/视频 | 图像分类 |	GSNN	|《The more you know: Using knowledge graphs for image classification》	| https://github.com/KMarino/GSNN_TMYN
+图像/视频 | 视觉问答	| GGNN	|《Graph-structured representations for visual question answering》/《Deep reasoning with knowledge graph for social relationship understanding》 "	
+图像/视频 | 领域识别 |	GCNN	|《Iterative visual reasoning beyond convolutions》|	https://github.com/coderSkyChen/Iterative-Visual-Reasoning.pytorch
+图像/视频 | 语义分割	| Graph LSTM	|《 Interpretablestructure-evolving lstm》《 Semantic objectparsing with graph lstm》
+图像/视频 | 语义分割	|	GGNN	|《Large-scale point cloud semantic segmentation with superpoint graphs》| https://github.com/loicland/superpoint_graph
+图像/视频 | 语义分割	|	DGCNN	|《Dynamic graph cnn for learning on point clouds》|	https://github.com/af13s/dgcnn-amino
+图像/视频 | 语义分割	|	3DGNN	| 《 3d graph neural networks for rgbd semantic segmentation》|	https://github.com/yanx27/3DGNN_pytorch
+生物科技 | 物理系统	| IN	|《 Interaction networks for learning about objects, relations and physics》| https://github.com/higgsfield/interaction_network_pytorch https://github.com/jaesik817/Interaction-networks_tensorflow
+生物科技 | 物理系统	| VIN |	《 Visual interaction networks: Learning a physics simulator from video》	
+生物科技 | 物理系统	| GN	|《 Graph networks as learnable physics engines for inference and control》|	https://github.com/fxia22/gn.pytorch
+生物科技 |分子指纹 |	GCN	|《Convolutional networks on graphs for learning molecular fingerprints》|	https://github.com/fllinares/neural_fingerprints_tf
+生物科技 |分子指纹 |		NGF	|《Molecular graph convolutions: moving beyond fingerprints》 |
+生物科技 |蛋白质界面预测 |	GCN	|《Protein interfaceprediction using graph convolutional networks》 | https://github.com/fouticus/pipgcn
+生物科技 |药物副作用预测	| Decagon	|《Modeling polypharmacyside effects with graph convolutional networks》|	https://github.com/miliana/DecagonPython3
+生物科技 | 疾病分类 |	PPIN	|《Hybrid approach of relation network and localized graph convolutional filtering for breast cancer subtype classification》 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
