@@ -17,8 +17,8 @@
 决策优化 | 规划器调度 | GNN |  《Adaptive Planner Scheduling with Graph Neural Networks》《Revised note on learning quadratic assignment with graph neural networks》 | 
  决策优化| 组合优化 | GCN structure2vec |  《Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search》《 Learning combinatorial optimization algorithms over graphs》 | [NPHard](https://github.com/IntelVCL/NPHard)
 交通 | 出租车需求预测 |  |  《Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction》 | [DMVST-Net](https://github.com/huaxiuyao/DMVST-Net)
-交通 | 交通流量预测 |  |   |
-交通 | 交通流量预测 |  |   | 
+交通 | 交通流量预测 |  | 《Spatio-Temporal Graph Convolutional Networks:A Deep Learning Framework for Traffic Forecasting》  |[STGCN-PyTorch](https://github.com/FelixOpolka/STGCN-PyTorch)
+交通 | 交通流量预测 |  |  《DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING》 | [DCRNN](https://github.com/liyaguang/DCRNN)
  |  |  |   | 
  |  |  |   | 
  |  |  |   | 
