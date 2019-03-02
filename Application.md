@@ -22,9 +22,9 @@
 传感网络 | 传感器布局 |  |   《Distributed Graph Layout for Sensor Networks》| 
 区域安全 | 疾病传播 |  |  《Predicting and controlling infectious disease epidemics using temporal networks》 | 
 区域安全 | 城市人流预测 |  |  《FCCF: Forecasting Citywide Crowd Flows Based on Big Data》 | 
- |  |  |   | 
- |  |  |   | 
- |  |  |   | 
+社交网络 | 影响力预测 | GCN/GAT | 《DeepInf: Social Influence Prediction with Deep Learning》  | [DeepInf](https://github.com/xptree/DeepInf)
+社交网络 | 转发动作预测 |  | 《Social Influence Locality for Modeling Retweeting Behaviors》  | 
+社交网络 | 转发动作预测 |  | 《 Predicting Retweet via Social Influence Locality》  | 
  |  |  |   | 
  |  |  |   | 
  |  |  |   | 
