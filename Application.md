@@ -28,8 +28,8 @@
  文本|	文本分类|	GCN	|"《Diffusion-convolutional neural networks》《 Convolutionalneural networks on graphs with fast localized spectral filtering》《Knowledgetransfer for out-of-knowledge-base entities : A graph neuralnetwork approach》《 Deep convolutional networks on graph-structured data》《 Semi-supervised classification with graph convolutional networks》《 Geometric deep learning on graphs and manifolds using mixture model cnns》"|[dcnn-tensorflow](https://github.com/RicardoZiTseng/dcnn-tensorflow)
 文本 | 文本分类 |GAT  | 《Graph attention networks》  | 
 文本 | 文本分类 | DGCNN |  《Large-scale hierarchical text classification with recursively regularized deep graph-cnn》|[DeepGraphCNNforTexts](https://github.com/HKUST-KnowComp/DeepGraphCNNforTexts)
-文本 |  文本分类|  |   | 
-文本| 文本分类 |  |   | 
+文本 |  文本分类| Text GCN |  《Graph convolutional networks for text classification》 | [text_gcn](https://github.com/yao8839836/text_gcn)
+文本| 文本分类 |Sentence LSTM  | 《 Sentence-state LSTM for text representation》| [S-LSTM](https://github.com/leuchine/S-LSTM)
 文本 |  |  |   | 
 文本 |  |  |   | 
 文本 |  |  |   | 
