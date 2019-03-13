@@ -10,3 +10,4 @@ DGL	| 图神经网络 |	建立图数据（可以无需通过networkx）并加载
 GPF	| 训练流程	| 基于关系数据的数据预测（节点分类、关系预测）|	https://github.com/xchadesi/GPF
 networkx	| 图数据预处理	| 非大规模图数据预处理	| https://github.com/networkx/networkx
 Euler	|工业级图深度学习框架	| 工业级图数据的用户研究快速进行算法创新与定制 |	https://github.com/alibaba/euler
+PyG | 几何深度学习 | 适合于图、点云、流行数据的深度学习，速度比DGL快 | https://github.com/rusty1s/pytorch_geometric
