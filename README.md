@@ -11,3 +11,4 @@ GPF	| 训练流程	| 基于关系数据的数据预测（节点分类、关系�
 networkx	| 图数据预处理	| 非大规模图数据预处理	| https://github.com/networkx/networkx
 Euler	|工业级图深度学习框架	| 工业级图数据的用户研究快速进行算法创新与定制 |	https://github.com/alibaba/euler
 PyG | 几何深度学习 | 适合于图、点云、流形数据的深度学习，速度比DGL快 | https://github.com/rusty1s/pytorch_geometric
+PBG | 图表示学习 | 高速大规模图嵌入工具,分布式图表示学习，使用pytorch | https://github.com/facebookresearch/PyTorch-BigGraph
