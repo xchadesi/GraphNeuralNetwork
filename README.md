@@ -13,3 +13,5 @@ Euler	|工业级图深度学习框架	| 工业级图数据的用户研究快速�
 PyG | 几何深度学习 | 适合于图、点云、流形数据的深度学习，速度比DGL快 | https://github.com/rusty1s/pytorch_geometric
 PBG | 图表示学习 | 高速大规模图嵌入工具,分布式图表示学习，使用pytorch | https://github.com/facebookresearch/PyTorch-BigGraph
 AliGraph | 图神经网络 | 阿里自研，大规模图神经网络平台 | https://arxiv.org/pdf/1902.08730.pdf
+NSL | 图神经网络 | 主要用来训练图神经网络 | https://www.tensorflow.org/neural_structured_learning/
+NGra | 图神经网络 | 支持图神经网络的并行处理框架 | https://arxiv.org/pdf/1810.08403.pdf
